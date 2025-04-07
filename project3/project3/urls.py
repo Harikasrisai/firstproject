@@ -23,5 +23,6 @@ urlpatterns = [
     path('biodata/',biodata,name='biodata'),
     path('sreelakshmi/',sreelakshmi,name='sreelakshmi'),
     path('dharani/',dharani,name='dharani'),
+    path('harika/',harika,name='harika'),
 
 ]
